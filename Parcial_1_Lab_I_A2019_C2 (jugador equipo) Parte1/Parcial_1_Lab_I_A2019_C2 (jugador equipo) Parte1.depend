@@ -1,0 +1,157 @@
+# depslib dependency file v1.0
+1571278396 source:c:\users\matukhan\desktop\lab1 10 10 parcial\parcial_1_lab_i_a2019_c2 (jugador equipo) parte1\equipos.c
+	"Equipos.h"
+
+1571256150 c:\users\matukhan\desktop\lab1 10 10 parcial\parcial_1_lab_i_a2019_c2 (jugador equipo) parte1\equipos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
+1571165797 c:\users\matukhan\desktop\lab1 10 10 parcial\parcial_1_lab_i_a2019_c2 (jugador equipo) parte1\validaciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1571278396 source:c:\users\matukhan\desktop\lab1 10 10 parcial\parcial_1_lab_i_a2019_c2 (jugador equipo) parte1\jugadores.c
+	"jugadores.h"
+
+1571262942 c:\users\matukhan\desktop\lab1 10 10 parcial\parcial_1_lab_i_a2019_c2 (jugador equipo) parte1\jugadores.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Equipos.h"
+
+1571278396 source:c:\users\matukhan\desktop\lab1 10 10 parcial\parcial_1_lab_i_a2019_c2 (jugador equipo) parte1\partido.c
+	"Partido.h"
+
+1571274821 c:\users\matukhan\desktop\lab1 10 10 parcial\parcial_1_lab_i_a2019_c2 (jugador equipo) parte1\partido.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Referi.h"
+	"jugadores.h"
+
+1571279073 c:\users\matukhan\desktop\lab1 10 10 parcial\parcial_1_lab_i_a2019_c2 (jugador equipo) parte1\referi.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
+1571278880 source:c:\users\matukhan\desktop\lab1 10 10 parcial\parcial_1_lab_i_a2019_c2 (jugador equipo) parte1\referi.c
+	"Referi.h"
+
+1571176759 source:c:\users\matukhan\desktop\lab1 10 10 parcial\parcial_1_lab_i_a2019_c2 (jugador equipo) parte1\validaciones.c
+	"validaciones.h"
+
+1571278880 source:c:\users\matukhan\desktop\lab1 10 10 parcial\parcial_1_lab_i_a2019_c2 (jugador equipo) parte1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Partido.h"
+
+1571321501 source:c:\users\matukhan\desktop\parcial 17\parcial_1_lab_i_a2019_c2 (jugador equipo) parte1\equipos.c
+	"Equipos.h"
+
+1571321501 c:\users\matukhan\desktop\parcial 17\parcial_1_lab_i_a2019_c2 (jugador equipo) parte1\equipos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
+1571321501 c:\users\matukhan\desktop\parcial 17\parcial_1_lab_i_a2019_c2 (jugador equipo) parte1\validaciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1571321501 source:c:\users\matukhan\desktop\parcial 17\parcial_1_lab_i_a2019_c2 (jugador equipo) parte1\jugadores.c
+	"jugadores.h"
+
+1571321501 c:\users\matukhan\desktop\parcial 17\parcial_1_lab_i_a2019_c2 (jugador equipo) parte1\jugadores.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Equipos.h"
+
+1571453304 source:c:\users\matukhan\desktop\parcial 17\parcial_1_lab_i_a2019_c2 (jugador equipo) parte1\partido.c
+	"Partido.h"
+
+1571321501 c:\users\matukhan\desktop\parcial 17\parcial_1_lab_i_a2019_c2 (jugador equipo) parte1\partido.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Referi.h"
+	"jugadores.h"
+
+1571453262 c:\users\matukhan\desktop\parcial 17\parcial_1_lab_i_a2019_c2 (jugador equipo) parte1\referi.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
+1571530524 source:c:\users\matukhan\desktop\parcial 17\parcial_1_lab_i_a2019_c2 (jugador equipo) parte1\validaciones.c
+	"validaciones.h"
+
+1571534879 source:c:\users\matukhan\desktop\parcial 17\parcial_1_lab_i_a2019_c2 (jugador equipo) parte1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Partido.h"
+
+1571535001 source:c:\users\matukhan\desktop\parcial 17\parcial_1_lab_i_a2019_c2 (jugador equipo) parte1\referi.c
+	"Referi.h"
+
+1571321501 source:c:\users\matukhan\desktop\parcial_1_lab_i_a2019_c2 (jugador equipo) parte1\jugadores.c
+	"jugadores.h"
+
+1571321501 c:\users\matukhan\desktop\parcial_1_lab_i_a2019_c2 (jugador equipo) parte1\jugadores.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Equipos.h"
+
+1571606420 c:\users\matukhan\desktop\parcial_1_lab_i_a2019_c2 (jugador equipo) parte1\equipos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
+1571321501 c:\users\matukhan\desktop\parcial_1_lab_i_a2019_c2 (jugador equipo) parte1\validaciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1571607621 source:c:\users\matukhan\desktop\parcial_1_lab_i_a2019_c2 (jugador equipo) parte1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Partido.h"
+
+1571321501 c:\users\matukhan\desktop\parcial_1_lab_i_a2019_c2 (jugador equipo) parte1\partido.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Referi.h"
+	"jugadores.h"
+
+1571453262 c:\users\matukhan\desktop\parcial_1_lab_i_a2019_c2 (jugador equipo) parte1\referi.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
+1571453304 source:c:\users\matukhan\desktop\parcial_1_lab_i_a2019_c2 (jugador equipo) parte1\partido.c
+	"Partido.h"
+
+1571535001 source:c:\users\matukhan\desktop\parcial_1_lab_i_a2019_c2 (jugador equipo) parte1\referi.c
+	"Referi.h"
+
+1571606689 source:c:\users\matukhan\desktop\parcial_1_lab_i_a2019_c2 (jugador equipo) parte1\validaciones.c
+	"validaciones.h"
+
+1571607790 source:c:\users\matukhan\desktop\parcial_1_lab_i_a2019_c2 (jugador equipo) parte1\equipos.c
+	"Equipos.h"
+

@@ -1,0 +1,24 @@
+void mostrarListadoAlumnosConCarrera(eAlumno listaAlumnos[], int ta, eCarrera listaCarreras[], int tc)
+{
+    int i;
+    int j;
+    for(i=0; i<ta; i++)
+    {
+        if(listaAlumnos[i].estado==OCUPADO)
+        {
+            printf("%d %s %f ", listaAlumnos[i].legajo,
+                           listaAlumnos[i].nombre,
+                           listaAlumnos[i].promedio);
+
+
+        for(j=0; j<tc; j++)
+        {
+            if(listaAlumnos[i].idCarrera==listaCarreras[j].idCarrera)
+            {
+                printf("%s\n", listaCarreras[j].nombre);
+                break;
+            }
+        }
+        }
+    }
+}
